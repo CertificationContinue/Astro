@@ -18,7 +18,7 @@ class Astro.h {
    constante_G : constante
    double getSchwarzschild(masse,vitesse,param)
 }
-
+ 
 Main ..> Astro.h
 Astro ..> Astro.h
 Astro ..> Bibliothèque.math
